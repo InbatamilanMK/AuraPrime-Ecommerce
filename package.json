@@ -1,0 +1,22 @@
+{
+  "name": "AuraPrime-ecommerce",
+  "version": "1.0.0",
+  "description": "Next-Gen Intelligent eCommerce Platform with 360 Viewer, Real-Time Delivery Tracking, AI Concierge, Admin Analytics, and Multi-Currency Support.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "portfolio",
+    "shopping-cart",
+    "order-tracking",
+    "admin-dashboard",
+    "recommendation-engine",
+    "upi-payment",
+    "dark-mode"
+  ],
+  "author": "Aura Commerce",
+  "license": "MIT"
+}
